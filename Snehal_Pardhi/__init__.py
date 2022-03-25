@@ -1,2 +1,2 @@
 print("My 1st Project")
-print("and i am doing my best")
+print("and I will give my best")
